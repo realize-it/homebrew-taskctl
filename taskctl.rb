@@ -3,7 +3,6 @@ class Taskctl < Formula
   desc ""
   homepage "https://github.com/taskctl/taskctl"
   version "1.4.2"
-  bottle :unneeded
 
   if OS.mac?
     url "https://github.com/taskctl/taskctl/releases/download/1.4.2/taskctl_1.4.2_darwin_amd64.tar.gz"
